@@ -10,9 +10,12 @@ const App=()=>{
             <ApprovalCard>
            <Comment author='Sam'/> 
            </ApprovalCard>  
+           <ApprovalCard>
            <Comment author='Jan'/>
+           <ApprovalCard>
+           </ApprovalCard>
            <Comment author='Fish'/>
-           <Comment author='Dan'/>      
+           </ApprovalCard>  
         </div>
         );
 }
